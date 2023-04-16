@@ -48,7 +48,8 @@
 
 <details>
   <summary>Код программы</summary>
-
+  
+  [Код программы](code/main4.c)
   ```c
   #include <stdio.h>
   #include <stdlib.h>
@@ -126,6 +127,7 @@
 <details>
   <summary>Код программы</summary>
     
+  [Код программы](code/main5.c)  
   ```c
   #include <stdio.h>
   #include <stdlib.h>
@@ -207,6 +209,7 @@ V.
 <details>
   <summary>Код программы</summary>
     
+  [Код программы](code/main6.c)  
   ```c
   #include <stdio.h>
   #include <stdlib.h>
@@ -344,6 +347,7 @@ V.
 <details>
   <summary>Код для медиатора</summary>
     
+  [Код для медиатора](code/main7_mediator.c)  
   ```c
   #include <stdio.h>
   #include <stdlib.h>
@@ -400,6 +404,7 @@ V.
 <details>
   <summary>Код дял курильщика</summary>
     
+  [Код дял курильщика](code/main7_smoker.c)  
   ```c
   #include <stdio.h>
   #include <stdlib.h>
@@ -476,6 +481,7 @@ V.
 <details>
   <summary>Код для медиатора</summary>
     
+  [Код дял медиатора](code/main8_mediator.c) 
   ```c
   #include <stdio.h>
   #include <stdlib.h>
@@ -563,6 +569,7 @@ V.
 <details>
   <summary>Код для курильщика</summary>
     
+  [Код дял курильщика](code/main8_smoker.c) 
   ```c
   #include <stdio.h>
   #include <stdlib.h>
